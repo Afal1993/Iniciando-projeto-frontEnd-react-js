@@ -1,0 +1,14 @@
+.navbar__container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    width: 25rem;
+    height: 25rem;
+}
+
+.navbar__container-links {
+    background-color: yellow;
+    width: 15rem;
+    height: 15rem;
+}
